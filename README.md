@@ -23,6 +23,4 @@ After performing Exploratory Data Analysis (EDA) and training the model, I obser
 **Intern:** Dua Ilyas
 **Organization:** DevelopersHub Corporation  
 **Date:** December 2025
-**Intern:** [Your Name]  
-**Organization:** DevelopersHub Corporation  
-**Task Completion Status:** 3/3 Tasks Finished ✅
+
